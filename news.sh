@@ -1,4 +1,4 @@
-!usr/bin/evn bash
+#!usr/bin/evn bash
 echo "hello user"
 read -p "what's your name?" name
 echo "hope you're doing well $name"
