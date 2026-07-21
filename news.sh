@@ -7,4 +7,4 @@ if [ $age -gt 30 ];then
    echo "you're that old?"
 else
 echo "you're good"
-
+fi
